@@ -1,0 +1,14 @@
+
+target/
+dbt_packages/
+logs/
+.env
+
+.venv/
+.venv-x64/
+logs/
+target/
+dbt_packages/
+.user.yml
+profiles.yml
+.env
